@@ -1,0 +1,4 @@
+baseURL = "https://seudominio.github.io/meu-site/"
+languageCode = "en-us"
+title = "Meu Site Hugo"
+theme = "profile"
